@@ -1,0 +1,401 @@
+[
+    {
+        "img": "https://www.dino-data.ca//PHPLib/getimage.php?Card=Dino&ID=1",
+        "dinoName": "Abelisaurus comahuensis",
+        "dinoSmallDescription": "Abel's lizard from Comahue",
+        "description": "Abelisaurus comahuensisis a theropod, and the first example of the Abelisauridae family. It is theorized to have been a bipedal carnivore with slender legs and tiny arms (even smaller than tyrannosaur arms).Abelisauruslived in the Late Cretaceous plains of South America, in the area that is now the province of R\u00edo Negro in Argentina. As they were separated at the time, it is believed that abelisaurs evolved in South America around the same time as tyrannosaurs in North America.The holotype is only a partial skull, which was discovered in the Lago Pellegrini stone quarries of the R\u00edo Negro province of Argentina in 1983 by Roberto Abel. No paratypes have been found, so all estimates ofAbelisaurus' size and anatomy are extrapolations based on other, more complete abelisaurs.The name \"Abelisaurus\" is to honour Professor Roberto Abel, the former director of the Museum of Cipolletti in Argentina; Roberto discovered the holotype ofAbelisaurus comahuensis, which is now stored in the Museum of Cipolletti. \"Comahuensis\" refers to the region in Argentina where the holotype was discovered, Comahue, which spans three provinces: Neuqu\u00e9n, R\u00edo Negro, and the Northern part of Patagonia.",
+        "paleontologists": [],
+        "Length (m):": "6.70 to 8.10",
+        "Weight (kg):": "1000.00 to 3000.00",
+        "Diet:": "Carnivore (Meat)",
+        "Family:": "Abelisauridae",
+        "MYA:": "84.0 to 70.0",
+        "Epoch:": "Late Cretaceous",
+        "Age:": "Campanian",
+        "Year Described:": "1985",
+        "Year Discovered:": "1983",
+        "Discovery Location:": [
+            "Lago Pellegrini Quarry",
+            "R\u00edo Negro",
+            "Argentina"
+        ]
+    },
+    {
+        "img": "https://www.dino-data.ca//PHPLib/getimage.php?Card=Dino&ID=4",
+        "dinoName": "Argentinosaurus huinculensis",
+        "dinoSmallDescription": "Argentina's Lizard of Huincul",
+        "description": "Argentinosaurus huinculensisis a basal titanosaur from the Lognkosauria family. In contention for the largest dinosaur (withDreadnoughtusandPatagotitan), it is a sauropod, a large quadruped with a long tail and long neck, estimated to be be between 22 and 40 metres (72 to 131 feet) in length.Argentinosauruslived in the Late Cretaceous plains of what is now central Argentina. Titanosaurs include the largest sauropods ever discovered, and were also the last surviving sauropods at the end of the Cretaceous. Being so large, it is thought that the only possible predator ofArgentinosauruswasGiganotosaurus, the largest known theropod.The holotype has no skull, but consists of multiple vertebrae and ribs, and some leg bones. It was discovered by Guillermo Heredia on his ranch in Northwestern R\u00edo Negro province in 1987. Due to the only specimen being rather incomplete, the size ofArgentinosauruscan only be estimated by comparison to other titanosaurs, and has varied over the years.\"Argentinosaurus\" refers to the country the dinosaur was discovered in, Argentina. \"Huinculensis\" is in reference to the Huincul Formation, where the fossils were discovered.",
+        "paleontologists": [],
+        "Length (m):": "22.00 to 40.00",
+        "Weight (kg):": "73000.00 to 100000.00",
+        "Diet:": "Herbivore (Plants)",
+        "Family:": "Lognkosauria",
+        "MYA:": "97.0 to 94.0",
+        "Epoch:": "Late Cretaceous",
+        "Age:": "Cenomanian",
+        "Year Described:": "1993",
+        "Year Discovered:": "1987",
+        "Discovery Location:": [
+            "Huincul Formation",
+            "R\u00edo Negro",
+            "Argentina"
+        ]
+    },
+    {
+        "img": "https://www.dino-data.ca//PHPLib/getimage.php?Card=Dino&ID=13",
+        "dinoName": "Beibeilong sinensis",
+        "dinoSmallDescription": "Chinese baby dragon",
+        "description": "Beibeilong sinensisis a theropod from the Caenagnathidae family, a group of very large oviraptors also known as megaoviraptors. It would have been a feathered bipedal dinosaur, with a toothless beak, clawed hands, and a tail for balance.Beibeilongwould have lived in the Late Cretaceous rainforests of what is now Southeast China. Oviraptors have been known to nest as many modern birds.Beibeilongwas the first example of a megaoviraptor shown to nest the same way as its smaller relatives.The holotype consists of the partial skeleton of an embryo (referred to as \"Baby Louie\"), which appears to have been removed from its egg before full development, and six to eight eggs. The story of discovery and namingBeibeilongis long, and shows the problems caused by the fossil trade.The specimen was discovered by a farmer named Zhang Fengchen, who excavated it in 1992 or 1993. In mid-1993 the specimen was illegally sold to an American company called The Stone Company, run by Florence and Charlie Magovern from Boulder, Colorado. Charlie was inspecting the eggs, and thought he saw some bones in a chisel gouge. He cleaned away some rock, and confirmed the presence of bones. Three of the paper's authors traveled to The Stone Company to study the specimen. This was when National Geographic photographer Louis Psihoyos came to document the unearthed skeleton. The skeleton was from then on referred to as \"Baby Louie\" in honour of Louis. in 2001, the full skeleton was unearthed, and the entire specimen was acquired by the Indianapolis Children's Museum. The specimen was finally returned to the Henan Geological Museum in China in 2013. In 2015, five of the paper's authors traveled to the excavation site with Zhang Fengchen, and found fossilized eggs identical to those found in the specimen.Beibeilongcomes from Pinyin. \"Beibei\" translates to \"baby\", asBeibeilongwas fossilized as a baby. \"Long\" translates to \"dragon\", as is the common replacement for \"saurus\" in Chinese dinosaurs.Sinensiscomes from Latin, referring to the fact that the dinosaur is from China.",
+        "paleontologists": [],
+        "Length (m):": "Unknown",
+        "Weight (kg):": "1000.00 to 1100.00",
+        "Diet:": "Carnivore (Meat)",
+        "Family:": "Caenagnathidae",
+        "MYA:": "100.5 to 89.8",
+        "Epoch:": "Late Cretaceous",
+        "Age:": "Cenomanian",
+        "Year Described:": "2017",
+        "Year Discovered:": "1992",
+        "Discovery Location:": [
+            "Heimaogou",
+            "Henan",
+            "China"
+        ]
+    },
+    {
+        "img": "https://www.dino-data.ca//PHPLib/getimage.php?Card=Dino&ID=3",
+        "dinoName": "Chilesaurus diegosuarezi",
+        "dinoSmallDescription": "Diego Suarez's Chilean lizard",
+        "description": "Chilesaurus diegosuareziis a basal theropod from the Tetanurae family. It is an unusual theropod with features usually not seen in one kind of dinosaur: bipedal, short arms with blunt claws, small head, a large gut, tail for balance, and a beak with leaf-eating teeth, making it a rare herbivorous theropod.Chilesauruslived in the Late Jurassic forests of what is now Southern Chile. Judging by the number of specimens found in the same area, it is thought thatChilesauruswas the region's dominant herbivore.The holotype is a relatively complete skeleton that was found in 2004 by Diego Su\u00e1rez when he was hiking with his family. After the find was reported, expeditions were made out to the discovery site, and multiple specimens were discovered. This led to the identification of fourteen additional paratypes.\"Chilesaurus\" refers to the country of Chile, where this dinosaur was discovered, as it is the first new species discovered in the country. \"Diegosuarezi\" refers to Diego Su\u00e1rez, who discovered the firstChilesaurusbone.",
+        "paleontologists": [],
+        "Length (m):": "3.20 to 3.20",
+        "Weight (kg):": "Unknown",
+        "Diet:": "Herbivore (Plants)",
+        "Family:": "Tetanurae",
+        "MYA:": "148.0 to 146.0",
+        "Epoch:": "Late Jurassic",
+        "Age:": "Tithonian",
+        "Year Described:": "2015",
+        "Year Discovered:": "2004",
+        "Discovery Location:": [
+            "Toqui Formation",
+            "Ays\u00e9n",
+            "Chile"
+        ]
+    },
+    {
+        "img": "https://www.dino-data.ca//PHPLib/getimage.php?Card=Dino&ID=16",
+        "dinoName": "Dreadnoughtus schrani",
+        "dinoSmallDescription": "Schran's Dreadnought",
+        "description": "Dreadnoughtus shraniis a sauropod from the Titansauria family. In contention for largest dinosaur (withArgentinosaurusandPatagotitan), it is quadrupedal with four thick legs, has a relatively small head, long neck, large body, and a long tail.Dreadnoughtuslived in the Late Cretaceous plains of what is now Southern Santa Cruz province in Argentina. Its true size is hard to determine, since other titanosaurs it could be compared against have relatively incomplete specimens. It is thought that the specimen discovered was still growing when it dies.The holotype is relatively complete for such a large dinosaur, missing a skull, but containing most of the rest of the skeleton. Kenneth Lacovera and Chris Coughenour first discovered the femur while on an expedition in 2005 to the La Leona area in Santa Cruz province. At the same site, a paratype was discovered that is far less complete (and also without a skull).The nameDreadnoughtus shranicomes from the size of the creature. Dreadnought, being an Old English word for 'fears nothing', was given to this dinosaur because of its size. Schrani comes from the name of Adam Schran, an American entrepreneur who supported the research of this specimen.",
+        "paleontologists": [],
+        "Length (m):": "26.00 to 26.00",
+        "Weight (kg):": "40000.00 to 65000.00",
+        "Diet:": "Herbivore (Plants)",
+        "Family:": "Titanosauria",
+        "MYA:": "84.0 to 66.0",
+        "Epoch:": "Late Cretaceous",
+        "Age:": "Campanian - Maastrichtian",
+        "Year Described:": "2014",
+        "Year Discovered:": "2005",
+        "Discovery Location:": [
+            "R\u00edo La Leona",
+            "Santa Cruz",
+            "Argentina"
+        ]
+    },
+    {
+        "img": "https://www.dino-data.ca//PHPLib/getimage.php?Card=Dino&ID=5",
+        "dinoName": "Ekrixinatosaurus novasi",
+        "dinoSmallDescription": "Novas' explosion-born lizard",
+        "description": "Ekrixinatosaurus novasiwas a large theropod from the Abelisauridae family. It was a bipedal carnivore, with a large head, tiny arms, stocky legs, and a large tail.Ekrixinatosauruswould have lived in the Late Cretaceous plains of what is now Northern Neuqu\u00e9n province of Argentina.The holotype consists of a partial skull and varied bones from the rest of the body. It was discovered in 2004 by the Gasoducto del Pac\u00edfico Company when they were constructing a section of pipeline in the rock formation called Baja del A\u00f1elo. It was described in 2004 as well.Ekrixinatosaurus, meaning \"explosion-born lizard\", refers to the fact that the specimen was discovered as the result of an explosion used to prepare the area for pipeline construction. \"Novasi\" is to honour Fernando E. Novas, and his important work in abelisaurid research.",
+        "paleontologists": [],
+        "Length (m):": "6.60 to 8.20",
+        "Weight (kg):": "Unknown",
+        "Diet:": "Carnivore (Meat)",
+        "Family:": "Abelisauridae",
+        "MYA:": "98.0 to 98.0",
+        "Epoch:": "Late Cretaceous",
+        "Age:": "Cenomanian",
+        "Year Described:": "2004",
+        "Year Discovered:": "2004",
+        "Discovery Location:": [
+            "Baja del A\u00f1elo Pipeline",
+            "Neuqu\u00e9n",
+            "Argentina"
+        ]
+    },
+    {
+        "img": "https://www.dino-data.ca//PHPLib/getimage.php?Card=Dino&ID=15",
+        "dinoName": "Ferrisaurus sustutensis",
+        "dinoSmallDescription": "Iron lizard from the Sustut River",
+        "description": "Ferrisaurus sustutensisis a relatively small ceratopsian from the Leptoceratopsidae family. It would have likely been quadrupedal (or rarely bipedal) with a rotund body, and a thick tail. While its front legs were technically longer than the back ones, because of their positioning on the body, the front legs would have looked shorter. It was hornless, had a toothed beak, and a frill at the back of its head.Ferrisauruslived in the forests of what is now Northwestern British Columbia, Canada. Leptoceratopsidae is a family of ceratopsians (similar toTriceratops) that are more primitive, so they are smaller, have shorter frills, and no horns.The holotype consists of only a few shoulder and leg bones, and was discovered in 1971 by Kenny Flyborg Larsen, a geologist searching for radioactive materials along a route where a railway was being constructed, as they gave off enough radiation to be detectable. He donated the fossils to Dalhousie University (Nova Scotia, Canada) in 2004, and they were acquired by the Royal British Columbia Museum in 2006. First described in 2008 as an unknown ornithischian, it was re-analyzed and described as a new species in 2019.Ferrisaurustranslates to \"iron lizard\", because the specimen was discovered along a future rail line (possibly because trains used to be referred to as \"iron horses\"). Sustutensis refers to the fact that the specimen was discovered along the Sustut River in the Sustut Basin area of British Columbia.",
+        "paleontologists": [],
+        "Length (m):": "1.75 to 1.75",
+        "Weight (kg):": "150.00 to 150.00",
+        "Diet:": "Herbivore (Plants)",
+        "Family:": "Leptoceratopsidae",
+        "MYA:": "68.2 to 67.2",
+        "Epoch:": "Late Cretaceous",
+        "Age:": "Maastrichtian",
+        "Year Described:": "2019",
+        "Year Discovered:": "1971",
+        "Discovery Location:": [
+            "Sustut-Birdflat Convergence",
+            "British Columbia",
+            "Canada"
+        ]
+    },
+    {
+        "img": "https://www.dino-data.ca//PHPLib/getimage.php?Card=Dino&ID=12",
+        "dinoName": "Galeamopus pabsti",
+        "dinoSmallDescription": "Needs helmet, Pabst",
+        "description": "Galeamopus pabstiis a large sauropod from the Diplodocinae family. It would have been a large, slender quadrapedal herbivore with a elongated head, long neck, and whip-like tail.Galeamopuswould have lived in the Late Jurassic floodplains of what is the current-day North-central United States.The holotype consists of a near-complete skull, and a fair amount of the rest of the skeleton. It was  discovered in 1995 by Ben Pabst (from the Swiss Sauriermuseum Aathal) in Northern Wyoming. Believed to be aDiplodocusspecimen, it was mounted in Sauriermuseum Aathal as one. After close study in 2015 by Emanuel Tschopp and Oct\u00e1vio Mateus, it was discovered to be a new species that they renamedGaleamopus pabsti.A paratype was discovered in central Colorado consisting of a partial skull and some vertebrae. It was described in 1884 by Othniel Marsh as aDiplodocus lacustrisskull, and was one of the seven separate speciemtns used to build the mountedDiplodocus carnegiidisplay at the Carnegie Museum of Natural History in Pittsburgh, USA.Galeamopusis Latin for \"want helmet\". The discoverer and describer of the originalGaleamopus hayi, known asDiplodocus hayiat the time, both had a first name of William. In 2015, when Swiss paleontologists re-describedDiplodocus hayias a new species, they wanted to honour the original two Williams, and \"want helm\" can be translated into German as Wil-helm, the German form of William. Additionally, the name also refers to the fact that the braincase appears to be delicate compared to other sauropods.Pabstirefers to the discoverer of the holotype, Austrian paleontologist Ben Pabst.",
+        "paleontologists": [],
+        "Length (m):": "Unknown",
+        "Weight (kg):": "Unknown",
+        "Diet:": "Herbivore (Plants)",
+        "Family:": "Diplodocinae",
+        "MYA:": "157.3 to 152.1",
+        "Epoch:": "Late Jurassic",
+        "Age:": "Kimmeridgian",
+        "Year Described:": "2017",
+        "Year Discovered:": "1995",
+        "Discovery Location:": [
+            "Howe-Scott Quarry",
+            "Wyoming",
+            "United States"
+        ]
+    },
+    {
+        "img": "https://www.dino-data.ca//PHPLib/getimage.php?Card=Dino&ID=18",
+        "dinoName": "Halszkaraptor escuilliei",
+        "dinoSmallDescription": "Halszka's robber, from Escuilli\u00e9",
+        "description": "Halszkaraptor escuillieiis a Dromaeosaur (Theropods normally referred to as raptors) from the Halszkaraptorinae family. It is a small bipedal feathered dinosaur with a toothed beak, long flexible neck, short feathered arms, slender legs, and a long tail.Halszkaraptorwould have lived in the relatively dry area of what is now South-central Mongolia, near bodies of water; swimming in the water using its arms like flippers to hunt for fish, and laying eggs on land. Because of the completeness of the skeleton, it was able to be attributed to the new Halszkaraptorinae family, along with two other already-described Dromaeosaurs (Mahakala omnogovae, Hulsanpes perlei).The holotype is an almost complete skeleton that wasn't flattened during the fossilization process. It is thought to have been poached from an unspecified area of Ukhaa Tolgod, a fossil-rich area of the \u00d6mn\u00f6gov province Mongolia. It was kept in private collections until 2015, when French fossil dealer Fran\u00e7ois Escuilli\u00e9 transferred the specimen to the Royal Belgian Institute of Natural Sciences. It was then returned to the Institute of Paleontology and Geology, Mongolian Academy of Sciences and described in 2017.Halszkaraptoris unique in the fact that it appears to have been at least partially aquatic, as evidenced by its arms being similar to modern swimming birds, serpentine neck, and and toothed beak similar to modern semi-aquatic birds. This was disputed in 2020, but that was heavily refuted by the original author, as the dispute contained many errors and innaccuracies.Halszkaraptormeans \"Halszka's raptor\". 'Halszka' to honour Halszka Osm\u00f3lska, a Polish paleontologist who specialised in Mongolian dinosaurs, and who discovered the oldest-known member of the new Halszkaraptorinae family:Hulsanpes perlei. \"Raptor\" is because this is part of the group of dinosaurs known as raptors.Escuillieiis to honour Fran\u00e7ois Escuilli\u00e9, who helped return the holotype back to Mongolia after it was poached.",
+        "paleontologists": [],
+        "Length (m):": "0.60 to 0.60",
+        "Weight (kg):": "Unknown",
+        "Diet:": "Piscivore (Fish)",
+        "Family:": "Halszkaraptorinae",
+        "MYA:": "75.0 to 71.0",
+        "Epoch:": "Late Cretaceous",
+        "Age:": "Campanian-Maastrichtian",
+        "Year Described:": "2017",
+        "Year Discovered:": "Unknown",
+        "Discovery Location:": [
+            "Ukhaa Tolgod",
+            "\u00d6mn\u00f6govi",
+            "Mongolia"
+        ]
+    },
+    {
+        "img": "https://www.dino-data.ca//PHPLib/getimage.php?Card=Dino&ID=19",
+        "dinoName": "Ibirania parva",
+        "dinoSmallDescription": "Little tree wanderer",
+        "description": "Ibirania parvawas a typical titanosaur shape: four sturdy legs, a long neck, and a long tail. It was also relatively small, thought to be approximately 5.7m long.Ibirania parvalived in what is now Southern Brazil during the Late Cretaceous. The area was an inland floodplain that experienced frequent and prolonged periods of drought.The fossil specimens were discovered at the Garcia brothers' farm (called, as a location, S\u00edtio  dos  Irm\u00e3os  Garcia) in the Northeast of the Brazilian state of S\u00e3o Paulo.The holotype consists of some vertebrae, and partial leg and foot bones. Three additional paratypes were discovered that include more vertebrae, and the bones of a separate leg. Later studies of the holotype also discovered preserved remains of parasites, leading to the earliest known case of parasitic bone disease.Sauropods include the largest dinosaurs discovered, especially Titanosaurs, which makesIbirania parvasurprising because of how small it is. The structure of its bones indicate that it was an adult, making it one of the smallest known sauropods. It is thought thatIbirania parvaevolved its small size due to prolonged droughts in its habitat.Ibiraniacomes from the combination of 'Ibir\u00e1' and 'plania'. The municipality the fossils were discovered in is 'Ibir\u00e1', which is a Portuguese form of the indigenous Tupi word 'ybyr\u00e1', meaning 'tree'. Plania is the Greek word for 'wanderer'.Parvacomes from the Latin 'parvus', meaning 'small' or 'little'. This gives the meaning ofIbirania parvato translate to 'little tree wanderer'.",
+        "paleontologists": [],
+        "Length (m):": "5.70 to 5.70",
+        "Weight (kg):": "Unknown",
+        "Diet:": "Herbivore",
+        "Family:": "Saltasaurinae",
+        "MYA:": "86.3 to 72.1",
+        "Epoch:": "Late Cretaceous",
+        "Age:": "Santonian-Campanian",
+        "Year Described:": "2022",
+        "Year Discovered:": "Unknown",
+        "Discovery Location:": [
+            "S\u00edtio dos Irm\u00e3os Garcia",
+            "S\u00e3o Paulo",
+            "Brazil"
+        ]
+    },
+    {
+        "img": "https://www.dino-data.ca//PHPLib/getimage.php?Card=Dino&ID=2",
+        "dinoName": "Murusraptor barrosaensis",
+        "dinoSmallDescription": "Wall thief of Sierra Barrosa",
+        "description": "Murusraptor barrosaensisis a theropod from the Megaraptoridae family. It was bipedal with a long snout (possibly including a crest), a long tail for balance, and arms with three clawed fingers; the thumbs having a long claw. It also had hollow bones, so it may have been quite agile for its size.Murusraptorlived in the Late Cretaceous plains of what is now the province of Neuqu\u00e9n in Argentina. It is one of the more complete specimens of Megaraptor known, a group that includes species from what is now South America, Japan, and Australia; regions which were separated by ocean at the time.The holotype ofMurusraptorwas discovered in 2001 by Sergio Saldivia from the Museo Carmen Funes, Paleontologia de Vertebrados (Plaza Huincul, Neuqu\u00e9n Province, Argentina). It was found in a canyon wall in a rock formation referred to as Sierra Barrossa in the province of Neuqu\u00e9n, and was described in 2016 (why it took 15 years is not clear). It consists of a partial skull, and and assortment of other bones from the rest of the body. It is estimated to have been 6.5 metres long, but is believed to be an immature specimen, so adults were likely longer. The skull has evidence of a severe infection, which may be related to what appear to be tooth marks from another theropod.\"Murusraptor\" means \"wall thief\", referring to the fact that this raptor was found in a canyon wall. \"Barrosaensis\" refers to Sierra Barrossa, the rock formation where it was discovered.",
+        "paleontologists": [],
+        "Length (m):": "6.00 to 6.50",
+        "Weight (kg):": "Unknown",
+        "Diet:": "Carnivore (Meat)",
+        "Family:": "Megaraptoridae",
+        "MYA:": "93.0 to 89.0",
+        "Epoch:": "Late Cretaceous",
+        "Age:": "Turonian",
+        "Year Described:": "2016",
+        "Year Discovered:": "2001",
+        "Discovery Location:": [
+            "Sierra Barrosa",
+            "Neuqu\u00e9n",
+            "Argentina"
+        ]
+    },
+    {
+        "img": "https://www.dino-data.ca//PHPLib/getimage.php?Card=Dino&ID=17",
+        "dinoName": "Patagotitan mayorum",
+        "dinoSmallDescription": "Mayo's titan of Patagonia",
+        "description": "Patagotitan mayorumis a titanosaur from the Lognkosauria family. In contention for the largest dinosaur (withArgentinosaurusandDreadnoughtus), it is a quadrupedal sauropod with four thick legs, has a relatively small head, long neck, large body, and a long tail.Patagotitanwould have lived in the Early Cretaceous floodplains of what is now central Chubut Province in Argentina. The Lognkosauria family of titanosaurs contains the largest species of sauropod (and dinosaur) known.The holotype consists of a partial skeleton, without a skull. It was discovered in 2010 by farmer Aureliano Hernandez at La Flecha Ranch in central Chubut Province, and was reported to researchers in 2012. Eight expeditions were carried out from 2012 to 2015 to excavate the holotype and paratypes. The different specimens are preserved in slightly different periods of rock formation, implying that different groups ofPatagotitandied in this area at different times. There are ten paratypes in total:Seven of the paratypes are single leg bones from different individuals. An eighth paratype is a tooth, and a ninth is a vertebra. The tenth paratype is a partial skeleton; the most complete of the paratypes, but less complete than the holotype. The paratypes combined with the holotype can be used to build one of the most complete titanosaur skeletons known.The namePatagotitancomes from the Patagonia region where it was discovered, and the mythological Greek titans, known for their size and power.Mayorumis to honour the Mayo family, who own the La Flecha ranch, and who were very welcoming to the researchers during their multiple expeditions.",
+        "paleontologists": [],
+        "Length (m):": "31.00 to 37.00",
+        "Weight (kg):": "44.21 to 86.37",
+        "Diet:": "Herbivore (Plants)",
+        "Family:": "Lognkosauria",
+        "MYA:": "101.8 to 101.4",
+        "Epoch:": "Early Cretaceous",
+        "Age:": "Albian",
+        "Year Described:": "2017",
+        "Year Discovered:": "2010",
+        "Discovery Location:": [
+            "La Flecha Ranch",
+            "Chubut",
+            "Argentina"
+        ]
+    },
+    {
+        "img": "https://www.dino-data.ca//PHPLib/getimage.php?Card=Dino&ID=14",
+        "dinoName": "Qiupalong henanensis",
+        "dinoSmallDescription": "Qiupa dragon from Henan",
+        "description": "Qiupalong henanensisis a theropod from the Ornithomimidae family. It would have been bipedal, feathered, with a small head ending in a toothless beak, and long legs, neck, and tail.Qiupalongwould have lived in the Lat Cretaceous plains of what is now Western Canada and Eastern China. With the finding of paratypes in Canada that are older than the Chinese holotype, it is theorized thatQiupalongmigrated from what is now North America to China across a land bridge that existed at the time, Beringia.The holotype consists of the back legs and hips. It was discovered in 2006 during a planned expedition to the Tantou Basin in the Chinese province of Henan, and was described in 2011. Three additional specimens from Dinosaur Provincial Park in Canada were determined to be possible paratypes ofQiupalongin a study from 2017.The first paratype is a skull-less partial skeleton collected in 1921 by Charles Setinberg from Little Sandhill Creek in Alberta, Canada. It was orignally described asStruthiomimus altusin 1975. The second is a fused ankle/heel bone that was collected from Happy Jack's Ferry Crossing. The third potential paratype is a foot claw collected from the core area of Dinosaur Provincial Park.Qiupalongcomes from Pinyin. \"Qiupa\" refers to the Qiupa Formation where the holotype was discovered. \"Long\" translates to \"dragon\", which replaces the common \"saurus\" in Latin dinosaur names.Henanensisis Latin, meaning \"from Henan\", after the province in which it was discovered.",
+        "paleontologists": [],
+        "Length (m):": "2.50 to 2.50",
+        "Weight (kg):": "Unknown",
+        "Diet:": "Omnivore (Anything)",
+        "Family:": "Ornithomimidae",
+        "MYA:": "76.5 to 66.0",
+        "Epoch:": "Late Cretaceous",
+        "Age:": "Unknown",
+        "Year Described:": "2011",
+        "Year Discovered:": "2006",
+        "Discovery Location:": [
+            "Qiupa Town",
+            "Henan",
+            "China"
+        ]
+    },
+    {
+        "img": "https://www.dino-data.ca//PHPLib/getimage.php?Card=Dino&ID=6",
+        "dinoName": "Quilmesaurus curriei",
+        "dinoSmallDescription": "Currie's Quilme lizard",
+        "description": "Quilmesaurus currieiis a theropd from the Abelisauridae family. It would have been bipedal with a large head that possibly had small horns. It is also thought to have short arms with long claws.Quilmesauruswould have lived in the Late Cretaceous plains of what is now the Northern R\u00edo Negro province in Argentina. It may have been one of the earlier abelisaurs, possible part of the group known as carnotaurs (usually-horned abelisaurs).The holotype consists of only a partial leg, so a lot of this dinosaur is theorized based on other abelisaur specimens. It was discovered in the 1980s by a field crew led by Dr. Jaime Powell for the Universidad Nacional de Tucum\u00e1n in the Salitral Ojo de Agua, a body of water near a saltpetre extraction site in the R\u00edo Negro province. It was described in 2001 as a carnotaur, and re-evaluated in 2007 and classified as an abelisaur.Quilmesaurusgets its name from the Quilme people, a native group of people native to the area that were known for their ferocity and ability to resist Incan and Spanish invaders for 130 years. \"Curriei\" refers to Phillip J. Currie, a Canadian paleontologist that Rodolfo Coria works with on many occasions.",
+        "paleontologists": [],
+        "Length (m):": "5.30 to 5.30",
+        "Weight (kg):": "Unknown",
+        "Diet:": "Carnivore (Meat)",
+        "Family:": "Abelisauridae",
+        "MYA:": "83.6 to 72.1",
+        "Epoch:": "Late Cretaceous",
+        "Age:": "Campanian",
+        "Year Described:": "2001",
+        "Year Discovered:": "1988",
+        "Discovery Location:": [
+            "Salitral Ojo de Agua",
+            "R\u00edo Negro",
+            "Argentina"
+        ]
+    },
+    {
+        "img": "https://www.dino-data.ca//PHPLib/getimage.php?Card=Dino&ID=8",
+        "dinoName": "Regaliceratops peterhewsi",
+        "dinoSmallDescription": "Peter Hews' regal horn-face",
+        "description": "Regaliceratops peterhewsiis a ceratopsian from the Triceratopsini family. It is a stocky quadruped with a large head, beaked mouth, three horns (the nose horn longer than the ones above the eyes), and a small frill with large elaborate spikes.Regaliceratopswould have lived in the Late Cretaceous swamps or floodplains of what is now Southern Alberta, Canada. Generally, ceratopsians (horn-faced dinosaurs) are split into two groups: chamosaurines and centrosaurines. Chasmosaurines had small nose horns, large eye horns, and simple frills with smooth or scalloped edges. Centrosaurines had large nose horns, small eye horns, and elaborate frills with spikes or spades.Regaliceratopsis unique in that it shares the horns and frill spikes of as centrosaur, but is classified as a chasmosaur because of the small frill size and general similarity to chasmosaurs. Since centrosaurs went extinct by the time of this dinosaur, it is thought that it evolved their traits for its own evolutionary needs.The holotype consists of an almost complete skull, which was discovered in 2005 by Canadian geologist Peter Hews while on a fishing trip along the Oldman River in Southern Alberta. The skull was encased in very hard rock on a cliff face about a metre (3 feet) above the waterline. During excavation, no debris was allowed to fall into the river, as it is the habitat of Alberta's provincial fish (the bull trout). Because of these factors, excavation took years, and the description was only completed in 2015. Because of these terrible excavation conditions, the specimen was nicknamed 'Hellboy'.Regaliceratopscomes from the Greek \"regalis\" meaning \"royal\", and Latin \"ceratops\" meaning \"horned face\".Peterhewsirefers to Peter Hews, the geologist who discovered the specimen.",
+        "paleontologists": [],
+        "Length (m):": "5.00 to 5.00",
+        "Weight (kg):": "1500.00 to 1500.00",
+        "Diet:": "Herbivore (Plants)",
+        "Family:": "Triceratopsini",
+        "MYA:": "68.5 to 67.5",
+        "Epoch:": "Late Cretaceous",
+        "Age:": "Maastrichtian",
+        "Year Described:": "2015",
+        "Year Discovered:": "2005",
+        "Discovery Location:": [
+            "Waldron Flats",
+            "Alberta",
+            "Canada"
+        ]
+    },
+    {
+        "img": "https://www.dino-data.ca//PHPLib/getimage.php?Card=Dino&ID=10",
+        "dinoName": "Shuangbaisaurus anlongbaoensis",
+        "dinoSmallDescription": "Shuangbai lizard from Anlongbao",
+        "description": "Shuangbaisaurus anlongbaoensisis an unclassified basal theropod. It would have been bipedal with a large toothy head, and dual crests along its snout, and two smaller crests over the eyes.Shuangbaisauruswould have lived in the Early Jurassic of what is now central Yunnan province in China. While it was not classified into a family in its initial study (and no further studies have been completed yet), it has some similarities to DilophosaurusandSinosaurus, meaning it may be related to them to some degree.The holotype consists of a partial skull, missing the upper jaws. It was discovered in 2017 during an expedition to Liuna Village, Anlongbao Township in Shuangbai County, Yunnan Province, China. No paratypes have been found.\"Shuangbaisaurus\" comes from Shuangbai County, where the holotype was found; \"saurus\" is Greek for \"lizard\". \"Anlongbao\" comes from the township of Anlongbao (also spelled Alongbo) where the holotype was discovered, and translates into English as \"dragon-placing fort\"; \"ensis\" is Greek for \"from\".",
+        "paleontologists": [],
+        "Length (m):": "Unknown",
+        "Weight (kg):": "Unknown",
+        "Diet:": "Carnivore (Meat)",
+        "Family:": "Unknown",
+        "MYA:": "201.3 to 199.3",
+        "Epoch:": "Early Jurassic",
+        "Age:": "Hettangian",
+        "Year Described:": "2017",
+        "Year Discovered:": "Unknown",
+        "Discovery Location:": [
+            "Liuna Village",
+            "Yunnan",
+            "China"
+        ]
+    },
+    {
+        "img": "https://www.dino-data.ca//PHPLib/getimage.php?Card=Dino&ID=7",
+        "dinoName": "Spiclypeus shipporum",
+        "dinoSmallDescription": "Shipp's spiked shield",
+        "description": "Spiclypeus shipporumis a ceratopsian from the Chasmosaurine family. It would have been a stocky quadruped with a large head and beaked mouth. It had three horns (two over the eyes facing sideways, and a shorter one over the nose), and a large frill at the back of the head. Spikes on the frill both stick straight out and curl forward.Spiclypeuswould have lived in the Late Cretaceous floodplains of what is now central Montana, USA. Early ceratopsians (the horn-faced dinosaurs) are known for having frill spikes that stick straight out, and more advanced members have frill horns that curl inwards. SinceSpiclypeushas both, it is a middle species between the earlier and more advanced ceratopsians.The holotype consists of a partial skull, and some of the rest of the skeleton, which was badly damaged. It was discovered in 2005 by Bill Shipp on his ranch near Winifred, Montana, who named it 'Judith' for the nearby Judith River. He continued to excavate the specimen for the next ten years, and then sold it to the Canadian Museum of Nature in 2015. While being described in 2016, evidence was found of a chronic infection on its front leg, possibly from tuberculosis or a fungal infection.Spiclypeusis a Latin portmanteau of the Latin words \"spica\" and \"clypeus\" \"spike\" and \"shield\", referring to the spikes around the outside of the frill. \"Shipporum\" refers to Bill Shipp and his family, the discoverer and original owner of the holotype's specimen.",
+        "paleontologists": [],
+        "Length (m):": "4.50 to 6.00",
+        "Weight (kg):": "3000.00 to 4000.00",
+        "Diet:": "Herbivore (Plants)",
+        "Family:": "Chasmosaurinae",
+        "MYA:": "75.1 to 76.4",
+        "Epoch:": "Late Cretaceous",
+        "Age:": "Campanian",
+        "Year Described:": "2016",
+        "Year Discovered:": "2005",
+        "Discovery Location:": [
+            "Shipp Ranch",
+            "Montana",
+            "United States"
+        ]
+    },
+    {
+        "img": "https://www.dino-data.ca//PHPLib/getimage.php?Card=Dino&ID=9",
+        "dinoName": "Xingxiulong chengi",
+        "dinoSmallDescription": "Cheng's constellation dragon",
+        "description": "Xingxiulong chengiis a basal sauropod from the Sauropodoformes family. It is relatively small, bipedal, and has a proportionally long neck and tail.Xingxiulonglived in the sub-tropical to tropical possibly swampy Early Jurassic area that is now modern-day central Yunnan province in China. Being early in the sauropod evolutionary line, it was still bipedal and small, before sauropods started growing the the giantic creatures of the later Jurassic and Cretaceous.The holotype is a relatively complete skeleton that was discovered near Sankeshu Village, in the Chinese province of Yunnan, in 2013 by personnel of Lufeng World Dinosaur Valley. Two other skeletons of the same species were found in the same location, and are describes as two additional paratypes.\"Xingxuilong\" comes from Mandarin; \"Xingxiu\" meaning \"constellation\". That part of the name was chosen from Xingxiu Bridge, a bridge in Lufeng County that was built during the Ming dynasty (somewhere between 1368 and 1644). \"Long\" is Mandarin for \"dragon\", which is the name typically used for Chinese dinosaurs in place of the typical \"saur\" for \"lizard\". \"Chengi\" is to honour Professor Zheng-Wu Chen, for his contributions to Chinese biostratigraphy.",
+        "paleontologists": [],
+        "Length (m):": "4.00 to 5.00",
+        "Weight (kg):": "Unknown",
+        "Diet:": "Herbivore (Plants)",
+        "Family:": "Sauropodoformes",
+        "MYA:": "201.3 to 199.3",
+        "Epoch:": "Early Jurassic",
+        "Age:": "Hettangian",
+        "Year Described:": "2017",
+        "Year Discovered:": "2013",
+        "Discovery Location:": [
+            "Sankeshu Village",
+            "Yunnan",
+            "China"
+        ]
+    },
+    {
+        "img": "https://www.dino-data.ca//PHPLib/getimage.php?Card=Dino&ID=11",
+        "dinoName": "Zuolong salleei",
+        "dinoSmallDescription": "Sallee's Zuo Dragon",
+        "description": "Zuolong salleeiis a basal theropod from the Tyrannoraptora family. It was relatively small, bipedal, with a toothed skull, short arms, a tail for balance, and likely feathers.Zuolonglived in the Late Jurassic marshes of what is now Northern Xinjiang, China. It is one of the earliest-known coelurosaurs (if not the earliest), the group of theropods that are more closely related to modern birds.The holotype consists of the skull, and a fair amount the the rest of the skeleton. It was discovered by a Chinese and American field expedition to Wucaiwan Village of Changji Hui prefecture, in the Xinjiang Autonomous Prefecture of China in 2001, and was described in 2010. It is also theorized to be a juvenile.Zuolongcomes from General Zuo (or General Tso), a Chinese general from the Qing Dynasty who conquered parts of Xinjiang, and the Mandarin word for dragon, \"long\". Salleei refers to Hilmar Sallee, whose bequest (money given through a will) helped fund the expedition. Information can't be found about Hilmar Sallee, unless he is a previous Broadway assistant manager who died in 1998.",
+        "paleontologists": [],
+        "Length (m):": "3.12 to 3.12",
+        "Weight (kg):": "16.22 to 50.38",
+        "Diet:": "Carnivore (Meat)",
+        "Family:": "Tyrannoraptora",
+        "MYA:": "162.4 to 158.4",
+        "Epoch:": "Late Jurassic",
+        "Age:": "Oxfordian",
+        "Year Described:": "2010",
+        "Year Discovered:": "2001",
+        "Discovery Location:": [
+            "Wucaiwan",
+            "Xinjiang",
+            "China"
+        ]
+    }
+]
